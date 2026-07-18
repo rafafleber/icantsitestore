@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M145 75h110v190q0 70-85 90l-55-45q60-5 60-55V75z" fill="#111"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ICANT</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">MEIA ESSENTIAL</text>
+</svg>

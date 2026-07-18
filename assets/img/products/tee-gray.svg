@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M120 90 55 120 75 190 120 170v190h160V170l45 20 20-70-65-30-45 25h-70z" fill="#3a3a3a"/><path d="M165 95q35 35 70 0" fill="none" stroke="#555" stroke-width="8"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ICANT</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">CAMISETA GRAPHIC</text>
+</svg>

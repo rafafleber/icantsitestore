@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M125 90h150l-12 110 32 170h-75l-20-135-20 135h-75l32-170z" fill="#0a0a0a"/><rect x="145" y="130" width="40" height="70" rx="4" fill="#151515"/><rect x="215" y="130" width="40" height="70" rx="4" fill="#151515"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">IC</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">CALÇA CARGO</text>
+</svg>

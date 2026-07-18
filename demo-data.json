@@ -1,0 +1,846 @@
+{
+  "ok": true,
+  "settings": {
+    "storeName": "ICANT",
+    "slogan": "CANT? MAKE IT CAN.",
+    "logoText": "ICANT",
+    "logoImage": "",
+    "favicon": "",
+    "colors": {
+      "background": "#000000",
+      "surface": "#ffffff",
+      "text": "#111111",
+      "inverse": "#ffffff",
+      "muted": "#777777",
+      "accent": "#000000",
+      "card": "#f3f3f3"
+    },
+    "typography": {
+      "fontFamily": "Arial, Helvetica, sans-serif",
+      "baseSize": 15
+    },
+    "currency": "BRL",
+    "locale": "pt-BR",
+    "country": "BR",
+    "contact": {
+      "whatsapp": "5531972354299",
+      "email": "briangabrielfsoares@gmail.com",
+      "instagram": "icant.store_ofc",
+      "tiktok": "voidimperium",
+      "address": "Belo Horizonte - MG",
+      "hours": "Atendimento online"
+    },
+    "hero": {
+      "enabled": true,
+      "title": "ICANT",
+      "subtitle": "CANT? MAKE IT CAN.",
+      "buttonText": "SHOP NOW",
+      "buttonLink": "/?view=shop",
+      "image": "/assets/img/hero.svg",
+      "overlay": 25,
+      "heightDesktop": 520,
+      "heightMobile": 420
+    },
+    "benefits": [
+      {
+        "id": "b1",
+        "icon": "▱",
+        "text": "FRETE GRÁTIS ACIMA DE R$ 299,99"
+      },
+      {
+        "id": "b2",
+        "icon": "◷",
+        "text": "ATÉ 30 DIAS PARA ENVIO"
+      },
+      {
+        "id": "b3",
+        "icon": "↻",
+        "text": "TROCAS DISPONÍVEIS"
+      }
+    ],
+    "navigation": [
+      {
+        "id": "n1",
+        "label": "HOME",
+        "url": "/"
+      },
+      {
+        "id": "n2",
+        "label": "SHOP",
+        "url": "/?view=shop"
+      },
+      {
+        "id": "n3",
+        "label": "DROPS",
+        "url": "/?view=drops"
+      },
+      {
+        "id": "n4",
+        "label": "OUTFITS",
+        "url": "/?view=outfits"
+      },
+      {
+        "id": "n5",
+        "label": "SOBRE",
+        "url": "/?page=sobre"
+      }
+    ],
+    "homeSections": [
+      {
+        "id": "launches",
+        "type": "products",
+        "title": "LANÇAMENTOS",
+        "source": "new",
+        "limit": 5,
+        "enabled": true,
+        "order": 1
+      },
+      {
+        "id": "bestsellers",
+        "type": "products",
+        "title": "MAIS VENDIDOS",
+        "source": "bestseller",
+        "limit": 5,
+        "enabled": true,
+        "order": 2
+      }
+    ],
+    "commerce": {
+      "freeShippingAt": 299.99,
+      "defaultShipping": 30,
+      "exchangeEnabled": true,
+      "exchangeDays": null,
+      "blockOutOfStock": true,
+      "lowStockThreshold": 3,
+      "checkoutMode": "whatsapp",
+      "allowCoupons": true
+    },
+    "popup": {
+      "enabled": false,
+      "title": "Bem-vindo à ICANT",
+      "text": "Confira os lançamentos.",
+      "buttonText": "Ver produtos",
+      "buttonLink": "/?view=shop"
+    },
+    "promoBar": {
+      "enabled": false,
+      "text": "NOVO DROP EM BREVE"
+    },
+    "seo": {
+      "title": "ICANT — Official Store",
+      "description": "Streetwear, drops e outfits ICANT.",
+      "keywords": "streetwear, roupas, ICANT"
+    },
+    "legal": {
+      "exchange": "Trocas disponíveis. Consulte as condições pelo atendimento.",
+      "privacy": "Seus dados são usados apenas para processar pedidos e atendimento.",
+      "terms": "Ao comprar, você concorda com as condições apresentadas no checkout."
+    },
+    "maintenance": {
+      "enabled": false,
+      "message": "Loja em manutenção. Voltamos em breve."
+    },
+    "app": {
+      "minimumVersion": "1.0.0",
+      "maintenance": false,
+      "updateMessage": ""
+    },
+    "updatedAt": "2026-07-18T16:35:37.423Z"
+  },
+  "products": [
+    {
+      "id": "p1",
+      "name": "CAMISETA BLOOM",
+      "slug": "camiseta-bloom",
+      "brand": "ICANT",
+      "description": "CAMISETA BLOOM com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 159.9,
+      "oldPrice": 199.9,
+      "cost": 76.75,
+      "badge": "NEW",
+      "category": "Camisetas",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/tee-bloom.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": false,
+      "featured": true,
+      "order": 1,
+      "stock": 12,
+      "sold": 25,
+      "rating": 4.8,
+      "reviewCount": 8,
+      "variants": [
+        {
+          "id": "p1-v1",
+          "attributes": {
+            "Tamanho": "P",
+            "Cor": "Preto"
+          },
+          "price": 159.9,
+          "stock": 5,
+          "sku": "IC-1000-1",
+          "image": "/assets/img/products/tee-bloom.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "P",
+          "M",
+          "G",
+          "GG"
+        ],
+        "Cores": [
+          "Preto",
+          "Branco"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "CAMISETA BLOOM",
+        "description": "Comprar CAMISETA BLOOM na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p2",
+      "name": "MOLETOM CLASSIC",
+      "slug": "moletom-classic",
+      "brand": "ICANT",
+      "description": "MOLETOM CLASSIC com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 259.9,
+      "oldPrice": null,
+      "cost": 124.75,
+      "badge": "NEW",
+      "category": "Moletons",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/hoodie-classic.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": true,
+      "order": 2,
+      "stock": 12,
+      "sold": 32,
+      "rating": 4.8,
+      "reviewCount": 9,
+      "variants": [
+        {
+          "id": "p2-v1",
+          "attributes": {
+            "Tamanho": "P",
+            "Cor": "Preto"
+          },
+          "price": 259.9,
+          "stock": 5,
+          "sku": "IC-1001-1",
+          "image": "/assets/img/products/hoodie-classic.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "P",
+          "M",
+          "G",
+          "GG"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "MOLETOM CLASSIC",
+        "description": "Comprar MOLETOM CLASSIC na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p3",
+      "name": "CALÇA CARGO ICANT",
+      "slug": "calca-cargo-icant",
+      "brand": "ICANT",
+      "description": "CALÇA CARGO ICANT com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 239.9,
+      "oldPrice": null,
+      "cost": 115.15,
+      "badge": "NEW",
+      "category": "Calças",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/cargo.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": true,
+      "order": 3,
+      "stock": 12,
+      "sold": 39,
+      "rating": 4.8,
+      "reviewCount": 10,
+      "variants": [
+        {
+          "id": "p3-v1",
+          "attributes": {
+            "Tamanho": "38",
+            "Cor": "Preto"
+          },
+          "price": 239.9,
+          "stock": 5,
+          "sku": "IC-1002-1",
+          "image": "/assets/img/products/cargo.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "CALÇA CARGO ICANT",
+        "description": "Comprar CALÇA CARGO ICANT na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p4",
+      "name": "BONÉ ÍCON",
+      "slug": "bone-icon",
+      "brand": "ICANT",
+      "description": "BONÉ ÍCON com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 129.9,
+      "oldPrice": 169.9,
+      "cost": 62.35,
+      "badge": "NEW",
+      "category": "Acessórios",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/cap.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": false,
+      "featured": true,
+      "order": 4,
+      "stock": 12,
+      "sold": 46,
+      "rating": 4.8,
+      "reviewCount": 11,
+      "variants": [
+        {
+          "id": "p4-v1",
+          "attributes": {
+            "Tamanho": "Único",
+            "Cor": "Preto"
+          },
+          "price": 129.9,
+          "stock": 5,
+          "sku": "IC-1003-1",
+          "image": "/assets/img/products/cap.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "Único"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "BONÉ ÍCON",
+        "description": "Comprar BONÉ ÍCON na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p5",
+      "name": "TÊNIS VISION",
+      "slug": "tenis-vision",
+      "brand": "ICANT",
+      "description": "TÊNIS VISION com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 399.9,
+      "oldPrice": null,
+      "cost": 191.95,
+      "badge": "NEW",
+      "category": "Calçados",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/sneaker.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": true,
+      "order": 5,
+      "stock": 12,
+      "sold": 53,
+      "rating": 4.8,
+      "reviewCount": 12,
+      "variants": [
+        {
+          "id": "p5-v1",
+          "attributes": {
+            "Tamanho": "37",
+            "Cor": "Preto/Branco"
+          },
+          "price": 399.9,
+          "stock": 5,
+          "sku": "IC-1004-1",
+          "image": "/assets/img/products/sneaker.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ],
+        "Cores": [
+          "Preto/Branco"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "TÊNIS VISION",
+        "description": "Comprar TÊNIS VISION na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p6",
+      "name": "CAMISETA GRAPHIC",
+      "slug": "camiseta-graphic",
+      "brand": "ICANT",
+      "description": "CAMISETA GRAPHIC com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 179.9,
+      "oldPrice": null,
+      "cost": 86.35,
+      "badge": "HOT",
+      "category": "Camisetas",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/tee-gray.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": false,
+      "order": 6,
+      "stock": 12,
+      "sold": 60,
+      "rating": 4.8,
+      "reviewCount": 13,
+      "variants": [
+        {
+          "id": "p6-v1",
+          "attributes": {
+            "Tamanho": "P",
+            "Cor": "Cinza"
+          },
+          "price": 179.9,
+          "stock": 5,
+          "sku": "IC-1005-1",
+          "image": "/assets/img/products/tee-gray.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "P",
+          "M",
+          "G",
+          "GG"
+        ],
+        "Cores": [
+          "Cinza",
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "CAMISETA GRAPHIC",
+        "description": "Comprar CAMISETA GRAPHIC na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p7",
+      "name": "BERMUDA CORE",
+      "slug": "bermuda-core",
+      "brand": "ICANT",
+      "description": "BERMUDA CORE com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 189.9,
+      "oldPrice": 229.9,
+      "cost": 91.15,
+      "badge": "",
+      "category": "Bermudas",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/shorts.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": false,
+      "order": 7,
+      "stock": 12,
+      "sold": 67,
+      "rating": 4.8,
+      "reviewCount": 14,
+      "variants": [
+        {
+          "id": "p7-v1",
+          "attributes": {
+            "Tamanho": "P",
+            "Cor": "Preto"
+          },
+          "price": 189.9,
+          "stock": 5,
+          "sku": "IC-1006-1",
+          "image": "/assets/img/products/shorts.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "P",
+          "M",
+          "G"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "BERMUDA CORE",
+        "description": "Comprar BERMUDA CORE na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p8",
+      "name": "BAG STREET",
+      "slug": "bag-street",
+      "brand": "ICANT",
+      "description": "BAG STREET com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 149.9,
+      "oldPrice": null,
+      "cost": 71.95,
+      "badge": "",
+      "category": "Acessórios",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/bag.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": false,
+      "featured": false,
+      "order": 8,
+      "stock": 12,
+      "sold": 74,
+      "rating": 4.8,
+      "reviewCount": 15,
+      "variants": [
+        {
+          "id": "p8-v1",
+          "attributes": {
+            "Tamanho": "Único",
+            "Cor": "Preto"
+          },
+          "price": 149.9,
+          "stock": 5,
+          "sku": "IC-1007-1",
+          "image": "/assets/img/products/bag.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "Único"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "BAG STREET",
+        "description": "Comprar BAG STREET na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p9",
+      "name": "MEIA ESSENTIAL",
+      "slug": "meia-essential",
+      "brand": "ICANT",
+      "description": "MEIA ESSENTIAL com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 49.9,
+      "oldPrice": null,
+      "cost": 23.95,
+      "badge": "",
+      "category": "Acessórios",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/sock.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": false,
+      "order": 9,
+      "stock": 12,
+      "sold": 81,
+      "rating": 4.8,
+      "reviewCount": 16,
+      "variants": [
+        {
+          "id": "p9-v1",
+          "attributes": {
+            "Tamanho": "M",
+            "Cor": "Preto"
+          },
+          "price": 49.9,
+          "stock": 5,
+          "sku": "IC-1008-1",
+          "image": "/assets/img/products/sock.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "M",
+          "G"
+        ],
+        "Cores": [
+          "Preto",
+          "Branco"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "MEIA ESSENTIAL",
+        "description": "Comprar MEIA ESSENTIAL na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    },
+    {
+      "id": "p10",
+      "name": "JAQUETA NIGHT",
+      "slug": "jaqueta-night",
+      "brand": "ICANT",
+      "description": "JAQUETA NIGHT com visual urbano, modelagem confortável e acabamento ICANT.",
+      "price": 349.9,
+      "oldPrice": 389.9,
+      "cost": 167.95,
+      "badge": "LIMITED",
+      "category": "Jaquetas",
+      "subcategory": "",
+      "gender": "Unissex",
+      "collection": "Core",
+      "tags": [
+        "streetwear"
+      ],
+      "images": [
+        "/assets/img/products/jacket.svg"
+      ],
+      "video": "",
+      "active": true,
+      "archived": false,
+      "new": true,
+      "featured": false,
+      "order": 10,
+      "stock": 12,
+      "sold": 88,
+      "rating": 4.8,
+      "reviewCount": 17,
+      "variants": [
+        {
+          "id": "p10-v1",
+          "attributes": {
+            "Tamanho": "P",
+            "Cor": "Preto"
+          },
+          "price": 349.9,
+          "stock": 5,
+          "sku": "IC-1009-1",
+          "image": "/assets/img/products/jacket.svg"
+        }
+      ],
+      "attributes": {
+        "Tamanhos": [
+          "P",
+          "M",
+          "G"
+        ],
+        "Cores": [
+          "Preto"
+        ]
+      },
+      "weight": 0.4,
+      "dimensions": {
+        "width": 25,
+        "height": 8,
+        "length": 30
+      },
+      "seo": {
+        "title": "JAQUETA NIGHT",
+        "description": "Comprar JAQUETA NIGHT na ICANT."
+      },
+      "createdAt": "2026-07-18T16:35:37.424Z",
+      "updatedAt": "2026-07-18T16:35:37.424Z"
+    }
+  ],
+  "categories": [],
+  "pages": [
+    {
+      "id": "sobre",
+      "title": "Sobre a ICANT",
+      "slug": "sobre",
+      "status": "published",
+      "content": "A ICANT é uma loja de streetwear criada para transformar atitude em movimento. CANT? MAKE IT CAN."
+    },
+    {
+      "id": "faq",
+      "title": "Perguntas frequentes",
+      "slug": "faq",
+      "status": "published",
+      "content": "Fale com nosso atendimento para tirar dúvidas sobre produtos, pedidos, frete e trocas."
+    },
+    {
+      "id": "trocas",
+      "title": "Política de trocas",
+      "slug": "trocas",
+      "status": "published",
+      "content": "Trocas disponíveis. O prazo e as condições podem ser atualizados pelo painel administrativo."
+    }
+  ],
+  "drops": [],
+  "outfits": [],
+  "testimonials": [],
+  "coupons": [],
+  "reviews": []
+}

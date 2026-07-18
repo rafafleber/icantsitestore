@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M65 265q70 5 125-85l45 60 90 25q25 8 25 45H70q-20-15-5-45z" fill="#111"/><path d="M75 305h275v30H70z" fill="#eee"/><path d="m195 210 65 15" stroke="#eee" stroke-width="8"/><path d="m180 225 65 15" stroke="#eee" stroke-width="8"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ICANT</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">TÊNIS VISION</text>
+</svg>

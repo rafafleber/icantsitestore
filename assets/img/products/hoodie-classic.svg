@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M135 110 90 145 105 220l35-15v165h120V205l35 15 15-75-45-35-25 15h-60z" fill="#090909"/><path d="M160 120q40-70 80 0v55h-80z" fill="#141414"/><rect x="160" y="250" width="80" height="55" rx="10" fill="#171717"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ICANT</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">MOLETOM CLASSIC</text>
+</svg>

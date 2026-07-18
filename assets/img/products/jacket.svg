@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+<rect width="400" height="460" fill="#f3f3f3"/>
+<path d="M130 95 75 145l30 215h85V170h20v190h85l30-215-55-50-45 20h-50z" fill="#0a0a0a"/><path d="M200 120v240" stroke="#333" stroke-width="6"/><path d="M110 225h65M225 225h65" stroke="#333" stroke-width="6"/>
+<text x="200" y="225" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ICANT</text>
+<text x="200" y="252" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13"></text>
+<text x="200" y="430" fill="#777" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14">JAQUETA NIGHT</text>
+</svg>
